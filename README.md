@@ -1,6 +1,6 @@
 # Dango
 
-This is my story.
+Here is my story.
 
 ## Run in development mode
 
